@@ -1,0 +1,10 @@
+/* the humans responsible */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Lead Developer: Kenny Jackelen
+  Site: kennyjackelen.com
+  Twitter: kennyjackelen
+  Location: Madison, WI
+
