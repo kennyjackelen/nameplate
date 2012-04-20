@@ -3,4 +3,6 @@
 
 User-agent: *
 Disallow: /blog/
+Disallow: /map/
+Disallow: /duke/
 
